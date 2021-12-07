@@ -1,4 +1,6 @@
-﻿namespace FancyCalc
+﻿using System.Text; //unused import
+
+namespace FancyCalc
 {
     public class FancyCalc
     {
