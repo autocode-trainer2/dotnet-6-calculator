@@ -3,7 +3,7 @@ using System.Text; //unused import
 
 namespace FancyCalc
 {
-    public class FancyCalcEnguine
+    public class FancyCalc
     {
 
         public double Add(int a, int b)
