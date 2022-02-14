@@ -1,8 +1,6 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyCalc", "FancyCalc\FancyCalc.csproj", "{B1543036-B21E-4B82-AEBF-3BEB5BC1AC59}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyCalc.Tests", "FancyCalc.Tests\FancyCalc.Tests.csproj", "{EB92D1A5-C360-4272-97A1-406634C3FC1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
